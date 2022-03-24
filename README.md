@@ -2,6 +2,8 @@
 
 ![19](art/19.gif)
 
+> We don't make mistakes, just happy little accidents. (Bob Ross , The Joy of Painting)
+
 ## Frame 0
 
 ![0](art/0.png)
