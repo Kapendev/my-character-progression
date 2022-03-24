@@ -1,75 +1,79 @@
 # My cool MC art progression
 
-![18](18.gif)
+![19](art/19.gif)
 
 ## Frame 0
 
-![0](0.png)
+![0](art/0.png)
 
 ## Frame 1
 
-![1](1.png)
+![1](art/1.png)
 
 ## Frame 2
 
-![2](2.png)
+![2](art/2.png)
 
 ## Frame 3
 
-![3](3.png)
+![3](art/3.png)
 
 ## Frame 4
 
-![4](4.png)
+![4](art/4.png)
 
 ## Frame 5
 
-![5](5.png)
+![5](art/5.png)
 
 ## Frame 6
 
-![6](6.png)
+![6](art/6.png)
 
 ## Frame 7
 
-![7](7.png)
+![7](art/7.png)
 
 ## Frame 8
 
-![8](8.png)
+![8](art/8.png)
 
 ## Frame 9
 
-![9](9.png)
+![9](art/9.png)
 
 ## Frame 10
 
-![10](10.png)
+![10](art/10.png)
 
 ## Frame 11
 
-![11](11.png)
+![11](art/11.png)
 
 ## Frame 12
 
-![12](12.png)
+![12](art/12.png)
 
 ## Frame 13
 
-![13](13.png)
+![13](art/13.png)
 
 ## Frame 14
 
-![14](14.png)
+![14](art/14.png)
 
 ## Frame 15
 
-![15](15.png)
+![15](art/15.png)
 
 ## Frame 16
 
-![16](16.png)
+![16](art/16.png)
 
 ## Frame 17
 
-![17](17.png)
+![17](art/17.png)
+
+## Frame 18
+
+![18](art/18.png)
