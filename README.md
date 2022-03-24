@@ -1,5 +1,7 @@
 # My cool MC art progression
 
+![18](18.gif)
+
 ![0](0.png)
 
 ![1](1.png)
@@ -35,5 +37,3 @@
 ![16](16.png)
 
 ![17](17.png)
-
-![18](18.gif)
