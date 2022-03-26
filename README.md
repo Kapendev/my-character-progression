@@ -2,7 +2,7 @@
 
 ![47](art/47.gif)
 
-> We don't make mistakes, just happy little accidents. (Bob Ross , The Joy of Painting)
+> We don't make mistakes, just happy little accidents. (Bob Ross, The Joy of Painting)
 
 It is recommended to listen to [this song](https://youtu.be/Q5gfyKYMq6g) when watching the evolution of the art.
 
